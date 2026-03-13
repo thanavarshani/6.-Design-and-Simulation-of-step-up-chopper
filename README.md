@@ -46,5 +46,15 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+
+<img width="760" height="289" alt="Screenshot 2026-03-13 112052" src="https://github.com/user-attachments/assets/fba932c9-2707-486a-be54-ddbbb0831c01" />
+
+
 ## Output
+
+<img width="1265" height="574" alt="Screenshot 2026-03-13 111733" src="https://github.com/user-attachments/assets/5a0aeda8-c840-4eaf-bd72-40fa89092204" />
+
+
 ## Result
+
+Design, simulate and analyse a stepup chopper or Boost converter using MATLAB Simulink is done.
